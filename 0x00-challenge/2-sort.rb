@@ -29,4 +29,3 @@ ARGV.each do |arg|
 end
 
 puts result
-
