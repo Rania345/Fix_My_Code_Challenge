@@ -1,4 +1,4 @@
-# challenge-0x01
+# Challenge-0x01
 ## Requirements
 ### General
 - Allowed editors: `vi`, `vim`, `emacs`
